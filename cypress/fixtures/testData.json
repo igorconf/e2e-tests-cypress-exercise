@@ -1,0 +1,22 @@
+{
+  "validUser": {
+    "name": "Test User",
+    "email": "test_user_1234@test.com",
+    "password": "Test@12345",
+    "firstName": "Test",
+    "lastName": "User",
+    "company": "Test Company",
+    "address": "123 Test Street",
+    "address2": "Apt 456",
+    "state": "Test State",
+    "city": "Test City",
+    "zipcode": "12345",
+    "mobileNumber": "1234567890"
+  },
+  "products": {
+    "first": {
+      "name": "Blue Top",
+      "price": "Rs. 500"
+    }
+  }
+}
