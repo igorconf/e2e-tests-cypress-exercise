@@ -22,6 +22,17 @@ Os testes foram desenvolvidos com foco nos fluxos mais críticos do sistema:
 - Finalizar compra
 - Validação de produtos
 
+## 🔗 Testes de API
+
+O projeto também inclui testes de API utilizando Cypress (`cy.request`), cobrindo:
+
+- Validação de status codes
+- Testes positivos e negativos
+- Validação de estrutura de resposta
+- Testes de endpoints críticos
+
+Os testes estão organizados por funcionalidades e executados automaticamente via CI/CD.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Cypress
