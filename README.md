@@ -1,9 +1,10 @@
-# Automação de Testes E2E - https://automationexercise.com
+# Automação de Testes E2E - Automation Exercise
 
 ## 📌 Objetivo
-Automatizar os principais fluxos de um e-commerce, garantindo a qualidade da aplicação através de testes end-to-end.
+Automatizar os principais fluxos de um e-commerce ([Automation Exercise](https://automationexercise.com)), garantindo a qualidade da aplicação através de testes end-to-end.
 
 ## 🧠 Estratégia de Testes
+
 Os testes foram desenvolvidos com foco nos fluxos mais críticos do sistema:
 
 - Autenticação de usuários (login válido e inválido)
@@ -27,6 +28,13 @@ Os testes foram desenvolvidos com foco nos fluxos mais críticos do sistema:
 - JavaScript
 - Mochawesome (relatórios)
 - GitHub Actions (CI/CD)
+
+## 🔍 Diferenciais
+
+- Testes automatizados com foco em fluxos críticos de negócio
+- Uso de dados dinâmicos com fixtures
+- Integração contínua com GitHub Actions
+- Geração de relatórios automatizados
 
 ## 🚀 Como Executar
 
